@@ -3,6 +3,7 @@ body {
 }
 
 .wrapper {
+    height: 300px;
     width: 300px;
     text-align: center;
 }
@@ -34,3 +35,16 @@ body {
     margin-left: 5px;
     font-weight: bold;
 }
+
+.judgement {
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.content {
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
